@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Bhatnagar</h1>
 <h3 align="center">🚀 Passionate Frontend & Java Developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deadguru123&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-</p>
 
 ---
 
